@@ -1,5 +1,6 @@
+Added by Repo A
 <<<<<<< HEAD
-Added by Repo A																													
+And again edited by B
 =======
-Added by Repo b
->>>>>>> da06b43 (commit done from repo b)
+and edited again by A
+>>>>>>> 61d7fdc (by A)
